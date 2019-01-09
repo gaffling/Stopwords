@@ -25,5 +25,8 @@ e.g. for SEO and search engine use.
 - http://members.unine.ch/jacques.savoy/clef/
 
 
+## PHP Class for using Stop Words
+- https://www.phpclasses.org/package/10309-PHP-Get-stop-words-for-many-different-languages.html
+
 ### Languages
 Arabic, Armenian, Basque, Bengali, Brazilian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Irish, Italian, Japanese, Korean, Kurdish, Latvian, Lithuanian, Marathi, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai, Turkish, Ukrainian, Urdu
